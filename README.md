@@ -1,4 +1,4 @@
-# 📈 FLUXO DE CAIXA: UMA FERRAMENTA PARA OBTER O EQUILÍBRIO FINANCEIRO
+# 📈 Fluxo de Caixa: Uma Ferramenta Para Obter o Equilíbrio Financeiro
 
 Pesquisa acadêmica sobre gestão financeira, com foco no fluxo de caixa para microempresas. Desenvolvida como Trabalho de Conclusão de Curso (TCC) em 2018 para a graduação em Gestão Comercial da 
 Faculdade Cisne de Quixadá.
