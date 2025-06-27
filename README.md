@@ -28,11 +28,11 @@ Faculdade Cisne de Quixadá.
 - Portal de Contabilidade:  
   [Demonstração do Fluxo de Caixa (DFC)](http://www.portaldecontabilidade.com.br/tematicas/ademonstracaodosfluxos.htm)  
 
-## 👩💻 Autora
-**Tailany Mariano Leite**  
+## 👩💻 Direitos Autorais
+**© Tailany Mariano Leite, 2018.**  
 - ✉️ `tailany.leite@gmail.com`  
-- 🔗 [LinkedIn](https://linkedin.com/in/tailany)  
-
+- 🔗 [LinkedIn](https://linkedin.com/in/tailany)
+  
 *"Este trabalho utiliza exclusivamente fontes públicas e citadas conforme normas ABNT."*
 
 ## 📜 Licença  
@@ -41,3 +41,5 @@ Este trabalho está licenciado sob [CC-BY 4.0][cc-by].
 
 [cc-by]: https://creativecommons.org/licenses/by/4.0/  
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+Atribuição obrigatória conforme a licença.
